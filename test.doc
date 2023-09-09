@@ -5,3 +5,4 @@ master가 skyepub의 내용을 모르고 여기서도 pull없이 올리기를 �
 skyepub이 다시 rebase --skip하고 작성한 라인입니다. 
 master가 역시 pull없이 다시 작업을 하기 시작합니다. 실제 하나의 브랜치인 경우 동시에 같은 문서를 편집할 경우 발생 
 이번에는 skyepub이 pull한뒤 push합니다. 
+이번에도 skyepub이 같은 실수 유도 
