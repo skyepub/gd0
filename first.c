@@ -3,5 +3,5 @@ int add(int a, int b) {
 }
 
 int main() {
-	printf("We are the world.\n");
+	int c = add(10,20);
 }
